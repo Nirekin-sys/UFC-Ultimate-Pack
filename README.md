@@ -2,7 +2,6 @@
 ## Nirekin's (U)nciv (F)antasy (C)ivilizations Pack.
 -
 A penultimate modpack for Yairm's Unciv, introducing 24 Fantasy and Fictional Civilizations to play for and against.
-
 ---
 ![Preview](https://cdn.discordapp.com/attachments/556615339849416736/702585704680652930/UltimatePack.png)
 ---
